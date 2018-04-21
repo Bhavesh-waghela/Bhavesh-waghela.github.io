@@ -146,12 +146,12 @@ input, textarea, select
 {
     font-size: 36px;
     width: 32px;
-    color: #0697AE;
+    color: rgba(236, 99, 145, 0.92);
 }
 
 .scroll-top .fa:hover
 {
-    color: #47afbf;
+    color: rgba(236, 99, 145, 0.92);
 }
 
 .sidebar
@@ -461,7 +461,7 @@ body.open .site-content
 
 .blog-item-holder .entry-content .entry-title a:hover
 {
-    color: #0697ae;
+    color: rgba(236, 99, 145, 0.92);
 }
 
 .blog-item-holder .entry-content .entry-title
@@ -895,7 +895,7 @@ body.open .site-content
 }
 .contact-form input[type=submit]:hover
 {
-    color: #0697ae;
+    color: rgba(236, 99, 145, 0.92);
 }
 
 .contact-form input[type=text]::-webkit-input-placeholder, .contact-form input[type=email]::-webkit-input-placeholder, .contact-form textarea::-webkit-input-placeholder
